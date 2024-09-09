@@ -1,4 +1,6 @@
-/* #include<bits/stdc++.h>
+/* A few of my C++ codes from competitive programming problems.
+
+#include<bits/stdc++.h>
 using namespace std;
 main()
 {
